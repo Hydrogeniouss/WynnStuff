@@ -1,0 +1,1 @@
+Want to do some stuff with the wynn api, original idea was to have a display for when a territory is being attacked, turns out that prop doesnt exist anymore currently, sad
